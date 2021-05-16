@@ -102,3 +102,10 @@ backdrop-filter: blur( 7.5px );
 border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
   }
+
+  @media screen and (max-width: 800px) {
+    .navigationbar-links {
+      margin: 0 auto !important;
+    }
+    
+  }
