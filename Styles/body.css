@@ -2,14 +2,22 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    /* max-height: 100vh; */
     
 }
 body {
-    
+    /* align-items: center;
+	background-color: #808080;
+	color: white;
+	/* display: flex; */
+	/* height: 100%;
+	justify-content: center; */
+
+
     background-color: gray;
     font-family:sans-serif;
     color: #232323;
-    height: 100vh;
+    height: 80vh;
 }
 
 #section1 {
@@ -55,5 +63,11 @@ h1 {
     padding: 10px 10%;
     justify-content: space-between;
      */
+
+    font-family: Oswald, san-serif;
+    font-weight: 200;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+    
 }
 
